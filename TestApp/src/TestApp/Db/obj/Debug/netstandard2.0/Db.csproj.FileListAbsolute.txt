@@ -1,0 +1,8 @@
+E:\priv\TestApp\src\TestApp\Db\bin\Debug\netstandard2.0\Db.deps.json
+E:\priv\TestApp\src\TestApp\Db\bin\Debug\netstandard2.0\Db.dll
+E:\priv\TestApp\src\TestApp\Db\obj\Debug\netstandard2.0\Db.csprojAssemblyReference.cache
+E:\priv\TestApp\src\TestApp\Db\obj\Debug\netstandard2.0\Db.AssemblyInfoInputs.cache
+E:\priv\TestApp\src\TestApp\Db\obj\Debug\netstandard2.0\Db.AssemblyInfo.cs
+E:\priv\TestApp\src\TestApp\Db\bin\Debug\netstandard2.0\Db.pdb
+E:\priv\TestApp\src\TestApp\Db\obj\Debug\netstandard2.0\Db.dll
+E:\priv\TestApp\src\TestApp\Db\obj\Debug\netstandard2.0\Db.pdb

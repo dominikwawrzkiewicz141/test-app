@@ -1,0 +1,8 @@
+/Users/cloudprod/repository/company/bluesoft/projects/albania/code/source-code.bkp/TestApp/src/TestApp/Db/bin/Release/netstandard2.0/Db.deps.json
+/Users/cloudprod/repository/company/bluesoft/projects/albania/code/source-code.bkp/TestApp/src/TestApp/Db/bin/Release/netstandard2.0/Db.dll
+/Users/cloudprod/repository/company/bluesoft/projects/albania/code/source-code.bkp/TestApp/src/TestApp/Db/bin/Release/netstandard2.0/Db.pdb
+/Users/cloudprod/repository/company/bluesoft/projects/albania/code/source-code.bkp/TestApp/src/TestApp/Db/obj/Release/netstandard2.0/Db.csprojAssemblyReference.cache
+/Users/cloudprod/repository/company/bluesoft/projects/albania/code/source-code.bkp/TestApp/src/TestApp/Db/obj/Release/netstandard2.0/Db.AssemblyInfoInputs.cache
+/Users/cloudprod/repository/company/bluesoft/projects/albania/code/source-code.bkp/TestApp/src/TestApp/Db/obj/Release/netstandard2.0/Db.AssemblyInfo.cs
+/Users/cloudprod/repository/company/bluesoft/projects/albania/code/source-code.bkp/TestApp/src/TestApp/Db/obj/Release/netstandard2.0/Db.dll
+/Users/cloudprod/repository/company/bluesoft/projects/albania/code/source-code.bkp/TestApp/src/TestApp/Db/obj/Release/netstandard2.0/Db.pdb
